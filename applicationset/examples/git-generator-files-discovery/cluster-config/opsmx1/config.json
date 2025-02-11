@@ -1,0 +1,9 @@
+{
+  "aws_account": "awsAccount",
+  "asset_id": "assetId",
+  "cluster": {
+    "owner": "NaN",
+    "name": "NaN",
+    "address": "NaN"
+  }
+}
