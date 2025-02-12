@@ -1,0 +1,7 @@
+{
+  "repoURL": "",
+  "chart": "",
+  "chartVersion": "",
+  "valuesPath": "base/nginx-ingress5/values.yaml",
+  "syncwave": ""
+}

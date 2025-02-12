@@ -1,0 +1,7 @@
+{
+  "repoURL": "https://helm.nginx.com/stable",
+  "chart": "nginx-ingress",
+  "chartVersion": "2.0.1",
+  "valuesPath": "base//values.yaml",
+  "syncwave": "one"
+}
