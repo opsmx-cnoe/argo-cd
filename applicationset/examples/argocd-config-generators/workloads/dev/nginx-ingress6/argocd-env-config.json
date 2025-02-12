@@ -1,0 +1,8 @@
+[
+    {
+      "appName": "nginx-ingress6",
+      "name": "nginx-ingress",
+      "configPath": "config_path",
+      "namespace": "argocd"
+    }
+]
