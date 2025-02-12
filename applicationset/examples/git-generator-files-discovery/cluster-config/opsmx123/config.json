@@ -1,0 +1,9 @@
+{
+  "aws_account": "awsaccount",
+  "asset_id": "assetid",
+  "cluster": {
+    "owner": "clusteowner",
+    "name": "engineeringdev",
+    "address": "http://1.2.3.4"
+  }
+}
